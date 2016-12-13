@@ -6,18 +6,18 @@ use Aws\Sqs\SqsClient;
 
 try {
     $credentials = array(
-        'region' => 'us-west-1',
+        'region' => 'us-west-2',
         'version' => 'latest',
         'credentials' => array(
-            'key'    => 'AKIUXYFUVO2JCHRBJWEO',
-            'secret' => 'sWUVe0s/D1oCbWVxL9XP8riNiMB4unIh2it8pIaf',
+            'key'    => 'ASIUXYFKVO2JCHRBJLCZ',
+            'secret' => 'sWUVe0s/D1oCtWVxLX9P8riWpBR4unI2hytp8Iaf',
         )
     );
 
     $client = new SqsClient($credentials);
 
 
-    $queueUrl = 'https://sqs.us-west-1.amazonaws.com/805676389772/sqs-msg';
+    $queueUrl = 'https://sqs.us-west-2.amazonaws.com/805476385770/sqs-notif';
 
     $result = $client->receiveMessage(array(
         'QueueUrl' => $queueUrl,
