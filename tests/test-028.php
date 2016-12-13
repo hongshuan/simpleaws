@@ -9,8 +9,8 @@ try {
         'region' => 'us-west-1',
         'version' => 'latest',
         'credentials' => array(
-            'key'    => 'AKIUXYFUVO2JCHRBJWEZ',
-            'secret' => 'sWUVe0s/D1oCbWVxL9XP8riNiMB4unIh2yt8pbaf',
+            'key'    => 'AKIUXYFUVO2JCHRBLWEC',
+            'secret' => 'sWUVe0s/D1oCbWVxL9XP8riNiMB4unIh2yt8pIafy',
         )
     );
 
