@@ -1,0 +1,11 @@
+{
+    "require": {
+        "php": ">=5.4",
+        "ext-phalcon": ">=2.0.9",
+        "aws/aws-sdk-php": "^3.20"
+    },
+    "autoload": {
+        "psr-4": {
+        }
+    }
+}
