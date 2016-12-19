@@ -9,7 +9,7 @@ try {
         'region' => 'us-west-2',
         'version' => 'latest',
         'credentials' => array(
-            'key'    => 'AJIUXYFKVO2JCHRBJWCZ',
+            'key'    => 'ASIUXYFKVO2JCCRBJWCZ',
             'secret' => 'sWUVe0s/D1oCbWVxLX9P8riWpBR4unI2hytp8Iaf',
         )
     );

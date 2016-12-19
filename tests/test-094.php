@@ -10,7 +10,7 @@ try {
         'version' => 'latest',
         'credentials' => array(
             'key'    => 'ASIUXYTKVO2JCHRBJWCZ',
-            'secret' => 'sWUVe0s/D1oCblVxLX9P8riWpBR4unI2hytp8Iaf',
+            'secret' => 'sWUVe0s/DmoCbWVxLX9P8riWpBR4unI2hytp8Iaf',
         )
     );
 
