@@ -9,18 +9,8 @@ try {
         'region' => 'us-west-2',
         'version' => 'latest',
         'credentials' => array(
-<<<<<<< HEAD
-            'key'    => 'LISUXYFKVOJ2CHBRJCWZ',
-            'secret' => 'sWUVs0s/D1oCbWVxXL9P8riWpB4RunI2hytpI8af',
-=======
-<<<<<<< HEAD
-            'key'    => 'AHIUVYWUOX2JCFRBQREC',
-            'secret' => 'sWUVe0s/Q1oDWbVxLvPX8riNiMB4unhI2yt8paIf',
-=======
-            'key'    => 'AISUXYFKVOJ2CHBRJCWY',
-            'secret' => 'sWUVe0s/D1oCbWVxXL9P8riWpB4RunI2hytpIeaf',
->>>>>>> 0d66240a984398b92be1e00204b4552a81ab6174
->>>>>>> 514a0808a34ff63b9108d1db84e019458d3ec624
+            'key'    => 'AISUXYFKVOJ2CWBRJCWZ',
+            'secret' => 'sWUVe0s/D1oCbWVxXL9P8riWpB4RunI2hytpI8afr',
         )
     );
 
