@@ -9,8 +9,18 @@ try {
         'region' => 'us-west-2',
         'version' => 'latest',
         'credentials' => array(
+<<<<<<< HEAD
             'key'    => 'AISUXYFKVOJ2CNBRJCWZ',
             'secret' => 'sWUVe0s/D1oCbWVxXL9P8riWpB4RunI2hytpIraf',
+=======
+<<<<<<< HEAD
+            'key'    => 'AHIUVYWUOX2JCFRBKWEC',
+            'secret' => 'sWUVe0s/Q1oDWjVxL9PX8riNiMB4unhI2yt8paIf',
+=======
+            'key'    => 'AISUXYFKVOJ2CHBRJCWZB',
+            'secret' => 'sWUVe0s/u1oCbWVxXL9P8riWpB4RunI2hytpI8af',
+>>>>>>> 0d66240a984398b92be1e00204b4552a81ab6174
+>>>>>>> 514a0808a34ff63b9108d1db84e019458d3ec624
         )
     );
 
